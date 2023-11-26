@@ -272,7 +272,7 @@ local function MPHSAXF_fake_script() -- LightTheme.LocalScript
 		
 		wait(1)
 		local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-    local Window = Library.CreateLib("Prison Life", "LightTheme")
+                local Window = Library.CreateLib("Prison Life", "LightTheme")
 		local Tab = Window:NewTab("Combat")
 		local Local2 = Window:NewTab("LocalPlayer")
 		local Local = Local2:NewSection("LocalPlayer")
@@ -574,7 +574,7 @@ local function TEAOS_fake_script() -- DarkTheme.LocalScript
 		wait(1)
 	
 	
-		local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+		local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 		local Window = Library.CreateLib("Prison Life", "DarkTheme")
 		local Tab = Window:NewTab("Combat")
 		local Local2 = Window:NewTab("LocalPlayer")
@@ -877,7 +877,7 @@ local function GYBRL_fake_script() -- GrapeTheme.LocalScript
 		wait(1)
 	
 	
-		local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+		local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 		local Window = Library.CreateLib("Prison Life", "GrapeTheme")
 		local Tab = Window:NewTab("Combat")
 		local Local2 = Window:NewTab("LocalPlayer")
@@ -1179,7 +1179,7 @@ local function BFNJ_fake_script() -- BloodTheme.LocalScript
 		script.Parent.Parent.Parent.Parent:TweenPosition(UDim2.new(0.008, 0,-0.5, 0, "Linear"))
 	
 	
-		local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+		local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 		local Window = Library.CreateLib("Prison Life", "BloodTheme")
 		local Tab = Window:NewTab("Combat")
 		local Local2 = Window:NewTab("LocalPlayer")
@@ -1482,7 +1482,7 @@ local function ERQTVH_fake_script() -- Midnight.LocalScript
 		wait(1)
 	
 	
-		local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+		local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 		local Window = Library.CreateLib("Prison Life", "Midnight")
 		local Tab = Window:NewTab("Combat")
 		local Local2 = Window:NewTab("LocalPlayer")
@@ -1785,7 +1785,7 @@ local function SIICX_fake_script() -- Synapse.LocalScript
 		wait(1)
 	
 	
-		local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+		local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 		local Window = Library.CreateLib("Prison Life", "Synapse")
 		local Tab = Window:NewTab("Combat")
 		local Local2 = Window:NewTab("LocalPlayer")
@@ -2088,7 +2088,7 @@ local function DYNCH_fake_script() -- Sentinel.LocalScript
 		wait(1)
 	
 	
-		local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+		local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
 		local Window = Library.CreateLib("Prison Life", "Sentinel")
 		local Tab = Window:NewTab("Combat")
 		local Local2 = Window:NewTab("LocalPlayer")
@@ -2391,8 +2391,8 @@ local function IBUWQK_fake_script() -- Serpent.LocalScript
 		wait(1)
 	
 	
-		local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-		local Window = Library.CreateLib("Prison Life", "Serpent")
+		local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+                local Window = Library.CreateLib("Prison Life", "Serpent")
 		local Tab = Window:NewTab("Combat")
 		local Local2 = Window:NewTab("LocalPlayer")
 		local Local = Local2:NewSection("LocalPlayer")
@@ -2694,8 +2694,8 @@ local function LHEIFNC_fake_script() -- Ocean.LocalScript
 		wait(1)
 	
 	
-		local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-		local Window = Library.CreateLib("Prison Life", "Ocean")
+		local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+                local Window = Library.CreateLib("Prison Life", "Ocean")
 		local Tab = Window:NewTab("Combat")
 		local Local2 = Window:NewTab("LocalPlayer")
 		local Local = Local2:NewSection("LocalPlayer")
